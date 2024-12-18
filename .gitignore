@@ -1,0 +1,8 @@
+
+__pycache__/
+# OSX temp
+.DS_Store
+
+# VS code
+.vscode/*
+*.pyc
